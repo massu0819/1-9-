@@ -6,7 +6,7 @@
 
 header {
   height: 50px;
-  background-color: #FF9A4B;
+  background-color: #ff9a4b;
 }
 
 main {
@@ -18,7 +18,7 @@ main {
 .box1 {
   width: 300px;
   margin-right: 30px;
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
   padding: 10px;
   position: relative;
 }
@@ -49,8 +49,8 @@ main {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #FF9A4B;
-  color: #EEEEEE;
+  background-color: #ff9a4b;
+  color: #eeeeee;
 }
 
 .title {
@@ -59,5 +59,9 @@ main {
 
 footer {
   height: 50px;
-  background-color: #AAAAAA;
+  background-color: #aaaaaa;
+}
+
+.social i {
+  
 }
